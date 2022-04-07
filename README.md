@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, mobile development and machine learning
 - 🌱 I’m currently learning flutter and asp.net core
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...via email: cleopasmwapem2c@gmail.com
 
 <!---
 CleopasMwape/CleopasMwape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
